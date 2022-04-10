@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLorDwC1JDtYtNbjEWclyhIu8G6yc8E9yijhQIr3TlLvlMvxUU+2fgBgzAQpgSedAMTKrjayX+jDSGjMYmGTfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\source\\repos\\Knights Tour\\Knights Tour\\Knights Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
